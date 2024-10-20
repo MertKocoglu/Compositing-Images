@@ -1,5 +1,7 @@
 Description
+
 Features
+
 Composite Function: Merges a foreground image onto a background image with adjustable opacity and position. It computes pixel values based on the alpha channel to blend the foreground with the background, preserving the original background's color where the foreground is transparent.
 
 Apply Filter Function: Applies different filters to the image on the canvas. Available filters include:
@@ -10,6 +12,8 @@ Invert: Inverts the colors of the image.
 Contrast: Adjusts the contrast of the image to enhance or reduce the differences between light and dark areas.
 Red Tint: Adds a red tint to the image by increasing the red channel's value.
 Usage
+
+
 To use these functions:
 
 Create an HTML file with a <canvas> element and a dropdown for filter selection.
